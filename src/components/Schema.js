@@ -5,7 +5,8 @@ const Schema = ({
   name,
   address,
   email,
-  phone: telephone,
+  phone1: telephone,
+  phone2: telephone,
   url,
   logoUrl: logo,
   type,
@@ -43,7 +44,8 @@ Schema.propTypes = {
   url: PropTypes.string,
   address: PropTypes.string,
   email: PropTypes.string,
-  phone: PropTypes.string,
+  phone1: PropTypes.string,
+  phone2: PropTypes.string,
   logoUrl: PropTypes.string
 }
 

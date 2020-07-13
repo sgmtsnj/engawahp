@@ -5,7 +5,8 @@ title: お問い合わせ
 featuredImage: '../images/engawa/1.jpg'
 subtitle: お問い合わせはこちら
 address: '木浜デイサービスえんがわ 滋賀県守山市木浜町 1931-1'
-phone: 077-585-7715 / 080-9755-7715
+phone1: 077-585-7715
+phone2: 080-9755-7715
 email: konohamadei.engawa@wish.ocn.ne.jp
 meta:
   description: デイサービス, 木浜, 守山, 滋賀
