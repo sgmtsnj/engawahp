@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://engawa-net.com/default/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/test slug/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/post-categories/えんがわ通信/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/post-categories/お知らせ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/posts/2020-年-4-月号-no-68/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/posts/2020-年-6-月号-no-70/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/posts/2020-年-5-月号-no-69/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://engawa-net.com/posts/ブログサービス終了のお知らせ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/default/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/test slug/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/post-categories/お知らせ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/post-categories/えんがわ通信/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/posts/2020-年-5-月号-no-69/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/posts/2020-年-4-月号-no-68/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/posts/2020-年-6-月号-no-70/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://engawa-net.com/engawahp/posts/ブログサービス終了のお知らせ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
