@@ -5,7 +5,7 @@ import qs from 'qs'
 
 import PageHeader from '../components/PageHeader'
 import PostSection from '../components/PostSection'
-import PostCategoriesNav from '../components/PostCategoriesNav'
+//import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
 
 /**
@@ -72,7 +72,7 @@ export const BlogIndexTemplate = ({
           {!!postCategories.length && (
             <section className="section thin">
               <div className="container">
-                <PostCategoriesNav enableSearch categories={postCategories} />
+                {/* <PostCategoriesNav enableSearch categories={postCategories} /> */}
               </div>
             </section>
           )}
