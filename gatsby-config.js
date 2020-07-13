@@ -1,6 +1,7 @@
 const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
+  pathPrefix: `/engawahp`,
   siteMetadata: {
     title: '木浜デイサービスえんがわ',
     siteUrl: 'https://engawa-net.com'
