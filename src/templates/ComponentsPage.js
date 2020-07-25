@@ -4,17 +4,12 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
-import Accordion from '../components/Accordion'
-import Gallery from '../components/Gallery'
-import Popup from '../components/Popup'
 
 // Export Template for use in CMS preview
 export const ComponentsPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  section1,
-  section2,
   body,
 }) => (
   <main>
@@ -23,18 +18,6 @@ export const ComponentsPageTemplate = ({
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
-    <section className="section">
-      <div className="container">
-        <Content source={section1} />
-      </div>
-    </section>
-
-    <section className="section">
-      <div className="container">
-        <Content source={section2} />
-      </div>
-    </section>
-
     <section className="section">
       <div className="container">
         <Content source={body} />
@@ -66,8 +49,6 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        section1
-        section2
       }
     }
   }

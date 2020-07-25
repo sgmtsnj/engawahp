@@ -4,7 +4,12 @@ slug: components
 title: ご利用について
 featuredImage: '../images/engawa/2.jpg'
 subtitle: ご利用の前にご確認いただきたい内容について
-section1: >-
+meta:
+  description: デイサービス, 木浜, 守山, 滋賀
+  title: ご利用について
+
+---
+
   ## ご利用までの流れ
 
   1. 介護認定の申請をしましょう
@@ -25,45 +30,49 @@ section1: >-
   6. ご利用開始
 
 
-  ### このあたりに介護認定の申請に関する滋賀県（守山市？）のページへのリンクを貼るとか
+<br>
+守山市 すこやかセンター内 介護保険課窓口で、申請書を受け取ることができます。申請には、申請書に加えて「介護保険被保険者証」および「かかりつけの医療機関と主治医の名前がわかるもの」が必要です。
+<br>
+<br>
 
-  ### 介護認定について調べるときのおすすめページのりんくをはるとか
+詳しくは [守山市のホームページ](https://www.city.moriyama.lg.jp/kaigo/kaigohokeninfo_7.html) を御覧ください。
+[ ![link](https://www.city.moriyama.lg.jp/shared/images/footer/flogo.png) ](https://www.city.moriyama.lg.jp/kaigo/kaigohokeninfo_7.html)
 
-  ### そういう情報があってもいいかも
+<br><br>
+<hr>
+<br><br>
 
-section2: |-
   ## えんがわの一日
 
   8:30	  お迎え
-  
+
   9:00	  バイタルチェック
-  
+
   9:30    朝の体操
-  
+
   10:00   お茶タイム
 
   10:30	  アクティビティ活動
-  
+
   11:30   健康体操
-  
+
   11:50	  口腔体操
-  
+
   12:00	  昼食
-  
+
   13:00	  休憩
-  
+
   14:00	  えんがわ体操・レクレーション
-  
+
   15:00	  おやつタイム・団らん
-  
+
   16:00    帰りの用意
-  
+
   お送り
 
-meta:
-  description: デイサービス, 木浜, 守山, 滋賀
-  title: ご利用について
----
+<br><br>
+<hr>
+<br><br>
 
   ## 働きやすい職場にするために努力していること
 
